@@ -7,3 +7,6 @@ class ServiceInterface(ABC):
 
     def add_to_stack(self,data):
         pass
+
+    def printing(self):
+        pass
